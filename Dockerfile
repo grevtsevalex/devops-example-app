@@ -9,4 +9,5 @@ RUN npm ci
 
 COPY . .
 
+
 CMD ["bin/start.sh"]
